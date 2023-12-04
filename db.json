@@ -18,5 +18,12 @@
         "correo": "ro@duoc.cl",
         "password": "123456"
       }
+    ],
+    "docente":[
+        {
+            "id": 1,
+            "correo": "profe@duoc.cl",
+            "password": "123456"
+        }
     ]
   }
