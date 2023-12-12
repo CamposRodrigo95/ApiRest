@@ -22,8 +22,14 @@
     "docente":[
         {
             "id": 1,
+            "nombre": "Antonio",
             "correo": "profe@duoc.cl",
             "password": "123456"
+        }
+    ],
+    "asignatura":[
+        {
+            
         }
     ]
   }
